@@ -2,4 +2,7 @@
 
 # Command Prefix = '{L}'
 
-# Ticket_System ここにカテゴリ名
+
+コマンド1 : Ticket_System ここにカテゴリ名
+説明 : Ticket_System ここにカテゴリ名 これを打つことで自動でチケットが生成されます
+TicketButtonを押す→個人チャンネルが生成される→しゃべる→いらなくなったら削除を押す→おわり
